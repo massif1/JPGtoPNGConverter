@@ -1,5 +1,6 @@
 # JPGtoPNGConverter
 Python3.8 learning project for working with Pillow to convert JPGs to PNGs
+
 Does not work with Python 2.x
 
 # Requirements
