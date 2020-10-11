@@ -29,7 +29,7 @@ python3.8 JPG2PNGConverter.py Pokedex/ PathToConvertedFiles/
 
 # Troubleshooting
 
-If pillow is simultaniously with PIL you might get an error.
+If pillow is installed simultaniously with (old) PIL package, you might get an error.
 You can try to uninstall & reinstall pillow again
 
 "python3.8 -m pip uninstall pillow"
